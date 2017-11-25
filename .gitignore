@@ -1,0 +1,12 @@
+# Universal patterns
+bin/
+target/
+.settings/
+.classpath
+.project
+
+# Project-specific patterns
+.idea/
+logs/
+cloc_analysis_14122015.txt
+*.iml
